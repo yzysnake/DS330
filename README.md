@@ -1,1 +1,1 @@
-# DS330
+# DS330 Visual Analytics for Data Sciences
