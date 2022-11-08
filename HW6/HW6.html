@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+    .links line {
+        stroke: #999;
+        stroke-opacity: 0.6;
+    }
+
+    .nodes circle {
+        stroke: #fff;
+        stroke-width: 1.5px;
+    }
+
+</style>
+<svg width="960" height="600"></svg>
+<script src="d3.v4.min.js"></script>
+<script>
+
+    var svg = d3.select("svg"),   // set up the graph's width and height
+        width = +svg.attr("width"),
+        height = +svg.attr("height");
+
+    var color = d3.scaleOrdinal(d3.schemeCategory20);
+
+    var simulation = d3.forceSimulation()  // assign the forces(a function that modifies nodes’ positions or velocities) for the following specified name and return its simulation
+        .force("link", d3.forceLink().id(function(d) { return d.id; })) // create a new link force with the specified links, and set the node id accessor to the specified function and return the function
+        .force("charge", d3.forceManyBody())  // create a new many-body force with the default parameters, applying mutually amongst all nodes and simulating gravity
+        .force("center", d3.forceCenter(width / 2, height / 2));  // create a new centering force with the specified x- and y- coordinates
+
+    d3.json("miserables.json", function(error, graph) {  // read json file
+        if (error) throw error;
+
+        var link = svg.append("g") // define the element of link
+            .attr("class", "links")
+            .selectAll("line")
+            .data(graph.links)
+            .enter().append("line")
+            .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
+
+        var node = svg.append("g") // define the element of node
+            .attr("class", "nodes")
+            .selectAll("circle")
+            .data(graph.nodes)
+            .enter().append("circle")
+            .attr("r", 5)
+            .attr("fill", function(d) { return color(d.group); })
+            .call(d3.drag() // add drag motion based on the function below
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                .on("end", dragended));
+
+        node.append("title")
+            .text(function(d) { return d.id; });
+
+        simulation
+            .nodes(graph.nodes)
+            .on("tick", ticked); // after each tick of the simulation’s internal timer
+
+        simulation.force("link")
+            .links(graph.links);
+
+        function ticked() { //
+            link
+                .attr("x1", function(d) { return d.source.x; })  // record both start and end of each link's position
+                .attr("y1", function(d) { return d.source.y; })
+                .attr("x2", function(d) { return d.target.x; })
+                .attr("y2", function(d) { return d.target.y; });
+
+            node
+                .attr("cx", function(d) { return d.x; })  // record each node's position
+                .attr("cy", function(d) { return d.y; });
+        }
+    });
+
+    function dragstarted(d) {
+        if (!d3.event.active) simulation.alphaTarget(0.3).restart();  // restart the simulation’s internal timer and returns the simulation
+        d.fx = d.x; // the node's fixed x-position and y-position gonna change
+        d.fy = d.y;
+    }
+
+    function dragged(d) {
+        d.fx = d3.event.x; // update the node's position during dragging
+        d.fy = d3.event.y;
+    }
+
+    function dragended(d) {
+        if (!d3.event.active) simulation.alphaTarget(0);
+        d.fx = d3.event.x; // Without turning back, the node's position gonna be permanent
+        d.fy = d3.event.y;
+    }
+
+</script>

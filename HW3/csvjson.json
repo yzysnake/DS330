@@ -1,0 +1,1302 @@
+[
+  {
+    "Date": "9/1/18",
+    "From": "16:00:00",
+    "To": "16:01:00",
+    "Content": "Emoloyee reported being harassed",
+    "Offenses": "Harassment",
+    "Location": "Wagner Bldg",
+    "Latitude": 40.805634,
+    "Longitude": -77.859307
+  },
+  {
+    "Date": "9/1/18",
+    "From": "10:00:00",
+    "To": "20:00:00",
+    "Content": "Student reported a suspicious item",
+    "Offenses": "Suspicious Activity - Other",
+    "Location": "Reber Bldg",
+    "Latitude": 40.793368,
+    "Longitude": -77.864351
+  },
+  {
+    "Date": "9/1/18",
+    "From": "14:00:00",
+    "To": "19:00:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Food Science Bldg",
+    "Latitude": 40.804138,
+    "Longitude": -77.861936
+  },
+  {
+    "Date": "9/1/18",
+    "From": "19:25:00",
+    "To": "20:01:00",
+    "Content": "Student reported theft by deception",
+    "Offenses": "Theft By Deception",
+    "Location": "Porter Hall",
+    "Latitude": 40.800789,
+    "Longitude": -77.85641
+  },
+  {
+    "Date": "8/30/18",
+    "From": "7:42:00",
+    "To": "7:42:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Runkle Hall",
+    "Latitude": 40.802215,
+    "Longitude": -77.866037
+  },
+  {
+    "Date": "9/1/18",
+    "From": "13:15:00",
+    "To": "13:15:00",
+    "Content": "Visitor reported a bicycle and vehicle crash with no injuries",
+    "Offenses": "Vehicle Code - Accident",
+    "Location": "Mckean Rd",
+    "Latitude": 40.800367,
+    "Longitude": -77.856198
+  },
+  {
+    "Date": "9/1/18",
+    "From": "12:53:00",
+    "To": "12:53:00",
+    "Content": "Student reported a two vehicle crash with no injuries",
+    "Offenses": "Vehicle Code - Accident",
+    "Location": "Yellow F Meters Lot",
+    "Latitude": 40.802177,
+    "Longitude": -77.861388
+  },
+  {
+    "Date": "8/31/18",
+    "From": "17:30:00",
+    "To": "17:30:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Intramural Bldg",
+    "Latitude": 40.807329,
+    "Longitude": -77.859192
+  },
+  {
+    "Date": "9/1/18",
+    "From": "11:05:00",
+    "To": "11:05:00",
+    "Content": "Assisted an outside law enforcement agency with an investigation",
+    "Offenses": "Assist State College Police",
+    "Location": "E College Ave & S Pugh St",
+    "Latitude": 40.795265,
+    "Longitude": -77.860465
+  },
+  {
+    "Date": "9/1/18",
+    "From": "9:51:00",
+    "To": "9:51:00",
+    "Content": "Resident Assistant reported the odor of marijuana",
+    "Offenses": "Possession of Small Amount of Marijuana",
+    "Location": "Stuart Hall",
+    "Latitude": 40.807014,
+    "Longitude": -77.862549
+  },
+  {
+    "Date": "9/1/18",
+    "From": "1:01:00",
+    "To": "1:01:00",
+    "Content": "Resident Assistant reported the odor of marijuana, origin not located",
+    "Offenses": "Possession of Small Amount of Marijuana",
+    "Location": "Chace Hall",
+    "Latitude": 40.798725,
+    "Longitude": -77.85715
+  },
+  {
+    "Date": "9/22/18",
+    "From": "23:15:00",
+    "To": "0:00:00",
+    "Content": "Visitor reported suspicious activity",
+    "Offenses": "Suspicious Activity - Persons",
+    "Location": "Old Main",
+    "Latitude": 40.796458,
+    "Longitude": -77.862733
+  },
+  {
+    "Date": "9/2/18",
+    "From": "20:30:00",
+    "To": "20:35:00",
+    "Content": "Received this department's copy of a Protection From Abuse (PFA) order",
+    "Offenses": "RFA-Request for Assistance",
+    "Location": "Eisenhower Parking Deck",
+    "Latitude": 40.802261,
+    "Longitude": -77.861044
+  },
+  {
+    "Date": "9/2/18",
+    "From": "19:25:00",
+    "To": "19:30:00",
+    "Content": "Employee reported a two vehicle crash with no injuries",
+    "Offenses": "Vehicle Code - Accident/Accidents Involving Damage To Unattended Vh/Propty",
+    "Location": "Hub Parking Deck",
+    "Latitude": 40.799004,
+    "Longitude": -77.860042
+  },
+  {
+    "Date": "9/2/18",
+    "From": "19:00:00",
+    "To": "19:01:00",
+    "Content": "Student reported they were sexually assaulted by a known person",
+    "Offenses": "Sexual Assault",
+    "Location": "University Park Campus",
+    "Latitude": 40.810232,
+    "Longitude": -77.862495
+  },
+  {
+    "Date": "9/2/18",
+    "From": "17:34:00",
+    "To": "17:34:00",
+    "Content": "Assisted an outside law enforcement agency with an investigation",
+    "Offenses": "Assist State College Police",
+    "Location": "S Pugh St",
+    "Latitude": 40.794922,
+    "Longitude": -77.859992
+  },
+  {
+    "Date": "9/2/18",
+    "From": "17:07:00",
+    "To": "17:54:00",
+    "Content": "Student reported being physically assaulted by an unknown person",
+    "Offenses": "Simple Assault/Pur,Cons,Poss, Trans Intox Bev",
+    "Location": "E College Ave & S Pugh St",
+    "Latitude": 40.79523,
+    "Longitude": -77.860603
+  },
+  {
+    "Date": "9/2/18",
+    "From": "1:00:00",
+    "To": "2:00:00",
+    "Content": "Employee reported finding abandoned unknown drug",
+    "Offenses": "Possession Of An Unknown Drug",
+    "Location": "Pattee Library Bldg",
+    "Latitude": 40.797626,
+    "Longitude": -77.866232
+  },
+  {
+    "Date": "9/2/18",
+    "From": "14:41:00",
+    "To": "14:41:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Pinchot Hall",
+    "Latitude": 40.805778,
+    "Longitude": -77.863198
+  },
+  {
+    "Date": "9/1/18",
+    "From": "0:30:00",
+    "To": "1:00:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Redifer Cmns",
+    "Latitude": 40.799376,
+    "Longitude": -77.855902
+  },
+  {
+    "Date": "9/2/18",
+    "From": "13:15:00",
+    "To": "13:29:00",
+    "Content": "Employee reported a suspicious item",
+    "Offenses": "Suspicious Activity - Other",
+    "Location": "Findlay Cmns",
+    "Latitude": 40.806448,
+    "Longitude": -77.861963
+  },
+  {
+    "Date": "9/2/18",
+    "From": "11:32:00",
+    "To": "11:32:00",
+    "Content": "Student consumed alcoholic beverages being less than 21 years of age",
+    "Offenses": "Pur,Cons,Poss, Trans Intox Bev/Disorderly Conduct - Loud Voices/Criminal Trespass/Health and Safety/RFA-Request for Assistance",
+    "Location": "McElwain Hall",
+    "Latitude": 40.800028,
+    "Longitude": -77.858893
+  },
+  {
+    "Date": "9/1/18",
+    "From": "8:00:00",
+    "To": "11:17:00",
+    "Content": "Student reported the theft of their unsecured personal property",
+    "Offenses": "Theft By Unlawful Taking Or Dispo/Receiving Stolen Property",
+    "Location": "White Bldg",
+    "Latitude": 40.799143,
+    "Longitude": -77.859844
+  },
+  {
+    "Date": "9/2/18",
+    "From": "2:03:00",
+    "To": "3:30:00",
+    "Content": "Underage student observed highly intoxicated",
+    "Offenses": "Pur,Cons,Poss, Trans Intox Bev/Public Drunkenness",
+    "Location": "Mckean Rd & Shortlidge Rd",
+    "Latitude": 40.798567,
+    "Longitude": -77.857916
+  },
+  {
+    "Date": "9/3/18",
+    "From": "15:30:00",
+    "To": "18:42:00",
+    "Content": "Incident issued in error",
+    "Offenses": "CAD Error-Incident Numbering Error",
+    "Location": "Services Rd & University Dr",
+    "Latitude": 40.811432,
+    "Longitude": -77.865373
+  },
+  {
+    "Date": "9/3/18",
+    "From": "16:46:00",
+    "To": "17:05:00",
+    "Content": "The Penn State Bomb Squad provided counter IED support for The PSU v. Kent State football game",
+    "Offenses": "Specialist Call Out Other",
+    "Location": "Beaver Stadium",
+    "Latitude": 40.812245,
+    "Longitude": -77.855566
+  },
+  {
+    "Date": "9/3/18",
+    "From": "16:34:00",
+    "To": "16:34:00",
+    "Content": "Student observed highly intoxicated an transported to the hospital",
+    "Offenses": "Public Drunkenness/Health and Safety/RFA-Request for Assistance",
+    "Location": "Medlar Fld",
+    "Latitude": 40.812289,
+    "Longitude": -77.852026
+  },
+  {
+    "Date": "9/3/18",
+    "From": "6:00:00",
+    "To": "19:30:00",
+    "Content": "Underage student observed highly intoxicated and transported to hospital",
+    "Offenses": "Pur,Cons,Poss, Trans Intox Bev/Public Drunkenness/Health and Safety/RFA-Request for Assistance",
+    "Location": "E Park Ave & Stadium West Rd",
+    "Latitude": 40.81265,
+    "Longitude": -77.859664
+  },
+  {
+    "Date": "9/3/18",
+    "From": "16:20:00",
+    "To": "16:20:00",
+    "Content": "Visitor observed highly intoxicated and transported to the hospital",
+    "Offenses": "Public Drunkenness/Health and Safety/RFA-Request for Assistance",
+    "Location": "Curtin Rd & Porter Rd",
+    "Latitude": 40.812229,
+    "Longitude": -77.853632
+  },
+  {
+    "Date": "9/3/18",
+    "From": "16:08:00",
+    "To": "16:08:00",
+    "Content": "Visitor found in possession of beverage alcohol while less than 21 years of age",
+    "Offenses": "Pur,Cons,Poss, Trans Intox Bev",
+    "Location": "Football 25 Lot",
+    "Latitude": 40.811952,
+    "Longitude": -77.848124
+  },
+  {
+    "Date": "9/3/18",
+    "From": "15:53:00",
+    "To": "15:53:00",
+    "Content": "Student was found in possession of a controlled substance with intent to deliver",
+    "Offenses": "Terroristic Threats/Propulsion Msl Ocp Veh Or Rdwy/Tampering/Fab-Phys Evidence/Possession Of Other Drug/Md/Pwid Other Drug/Pur,Cons,Poss, Trans Intox Bev/Public Drunkenness/Disorderly Conduct - Fighting",
+    "Location": "Football 12 Lot",
+    "Latitude": 40.810235,
+    "Longitude": -77.864824
+  },
+  {
+    "Date": "9/3/18",
+    "From": "15:28:00",
+    "To": "16:00:00",
+    "Content": "Visitor reported they were indecently assaulted by an unknown person at a University building",
+    "Offenses": "Indecent Assault/Harassment",
+    "Location": "Beaver Stadium Bldg",
+    "Latitude": 40.811229,
+    "Longitude": -77.856328
+  },
+  {
+    "Date": "9/3/18",
+    "From": "14:30:00",
+    "To": "16:00:00",
+    "Content": "Student observed highly intoxicated",
+    "Offenses": "Public Drunkenness/Health and Safety/RFA-Request for Assistance",
+    "Location": "University Dr & E Park Ave",
+    "Latitude": 40.810191,
+    "Longitude": -77.861828
+  },
+  {
+    "Date": "9/3/18",
+    "From": "15:12:00",
+    "To": "15:12:00",
+    "Content": "Student reported being harassed",
+    "Offenses": "Harassment",
+    "Location": "Hastings Hall",
+    "Latitude": 40.807553,
+    "Longitude": -77.862555
+  },
+  {
+    "Date": "9/3/18",
+    "From": "11:00:00",
+    "To": "15:01:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Football 24 Lot",
+    "Latitude": 40.811694,
+    "Longitude": -77.849402
+  },
+  {
+    "Date": "9/3/18",
+    "From": "14:50:00",
+    "To": "14:50:00",
+    "Content": "Visitor observed highly intoxicated and transported to the hospital",
+    "Offenses": "Public Drunkenness",
+    "Location": "Red 44 Lot",
+    "Latitude": 40.810531,
+    "Longitude": -77.85342
+  },
+  {
+    "Date": "9/3/18",
+    "From": "14:52:00",
+    "To": "15:20:00",
+    "Content": "Student observed highly intoxicated and transported to the hospital",
+    "Offenses": "Public Drunkenness/Criminal Trespass/Health and Safety/RFA-Request for Assistance",
+    "Location": "Turfgrass Breeding Greenhous Bldg",
+    "Latitude": 40.80187,
+    "Longitude": -77.862454
+  },
+  {
+    "Date": "9/3/18",
+    "From": "10:45:00",
+    "To": "14:00:00",
+    "Content": "Visitor found in possession of a fraudulent ID card",
+    "Offenses": "Carrying False Id Card-Minor/Criminal Mischief - Buildings/Disorderly Conduct/PSU-Rules and Regulations",
+    "Location": "Leete Hall",
+    "Latitude": 40.802712,
+    "Longitude": -77.86653
+  },
+  {
+    "Date": "9/3/18",
+    "From": "13:45:00",
+    "To": "14:45:00",
+    "Content": "Employee reported concern for another student",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Pollock Commons",
+    "Latitude": 40.801918,
+    "Longitude": -77.856022
+  },
+  {
+    "Date": "9/3/18",
+    "From": "13:46:00",
+    "To": "14:07:00",
+    "Content": "Student reported a University policy violation",
+    "Offenses": "PSU-Rules and Regulations",
+    "Location": "Curtin Hall",
+    "Latitude": 40.805131,
+    "Longitude": -77.861018
+  },
+  {
+    "Date": "9/4/18",
+    "From": "22:40:00",
+    "To": "22:57:00",
+    "Content": "Visitor stopped for University policy violation regarding skateboarding",
+    "Offenses": "PSU-Rules and Regulations",
+    "Location": "McAllister Bldg",
+    "Latitude": 40.797561,
+    "Longitude": -77.861816
+  },
+  {
+    "Date": "9/4/18",
+    "From": "12:52:00",
+    "To": "13:20:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/Health and Safety/RFA-Request for Assistance",
+    "Location": "Miller Hall",
+    "Latitude": 40.802198,
+    "Longitude": -77.8521
+  },
+  {
+    "Date": "9/4/18",
+    "From": "2:00:00",
+    "To": "4:00:00",
+    "Content": "Student observed highly intoxicated and transported to the hospital",
+    "Offenses": "Public Drunkenness/Health and Safety/RFA-Request for Assistance",
+    "Location": "Pollock Bldg",
+    "Latitude": 40.801003,
+    "Longitude": -77.858288
+  },
+  {
+    "Date": "9/4/18",
+    "From": "5:00:00",
+    "To": "5:45:00",
+    "Content": "Student consumed alcoholic beverages being less than 21 years of age",
+    "Offenses": "Pur,Cons,Poss, Trans Intox Bev/Health and Safety/RFA-Request for Assistance",
+    "Location": "Beaver Hall",
+    "Latitude": 40.800296,
+    "Longitude": -77.8563
+  },
+  {
+    "Date": "9/5/18",
+    "From": "21:56:00",
+    "To": "21:56:00",
+    "Content": "Student reported the odor of marijuana, origin not located",
+    "Offenses": "Possession of Small Amount of Marijuana/Pur,Cons,Poss, Trans Intox Bev",
+    "Location": "Jordan Hall",
+    "Latitude": 40.796779,
+    "Longitude": -77.866506
+  },
+  {
+    "Date": "9/2/18",
+    "From": "0:00:00",
+    "To": "24:00:00",
+    "Content": "Employee reported the odor of marijuana, origin not located",
+    "Offenses": "Possession of Small Amount of Marijuana",
+    "Location": "Pennypacker Hall",
+    "Latitude": 40.806138,
+    "Longitude": -77.860447
+  },
+  {
+    "Date": "9/5/18",
+    "From": "0:00:00",
+    "To": "2:00:00",
+    "Content": "Student observed highly intoxicated and transported to the hospital",
+    "Offenses": "Possession of Small Amount of Marijuana/Public Drunkenness/Health and Safety/RFA-Request for Assistance",
+    "Location": "Porter Rd",
+    "Latitude": 40.80965,
+    "Longitude": -77.850404
+  },
+  {
+    "Date": "9/5/18",
+    "From": "16:57:00",
+    "To": "16:57:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Pur,Cons,Poss, Trans Intox Bev/Health and Safety/RFA-Request for Assistance",
+    "Location": "Snyder Hall",
+    "Latitude": 40.807546,
+    "Longitude": -77.861217
+  },
+  {
+    "Date": "9/5/18",
+    "From": "15:14:00",
+    "To": "15:14:00",
+    "Content": "Employee reported being harassed",
+    "Offenses": "Harassment",
+    "Location": "Ford Bldg",
+    "Latitude": 40.799683,
+    "Longitude": -77.869196
+  },
+  {
+    "Date": "9/3/18",
+    "From": "11:16:00",
+    "To": "12:15:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Student Health Center Bldg",
+    "Latitude": 40.802779,
+    "Longitude": -77.860083
+  },
+  {
+    "Date": "9/5/18",
+    "From": "3:15:00",
+    "To": "3:15:00",
+    "Content": "Assisted an outside law enforcement agency with an investigation",
+    "Offenses": "Assist State College Police",
+    "Location": "E Calder Way",
+    "Latitude": 40.797254,
+    "Longitude": -77.857174
+  },
+  {
+    "Date": "9/6/18",
+    "From": "21:08:00",
+    "To": "21:25:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Hamilton Hall",
+    "Latitude": 40.795796,
+    "Longitude": -77.866167
+  },
+  {
+    "Date": "9/6/18",
+    "From": "21:05:00",
+    "To": "21:05:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Kern Graduate Bldg",
+    "Latitude": 40.797344,
+    "Longitude": -77.868459
+  },
+  {
+    "Date": "9/6/18",
+    "From": "18:10:00",
+    "To": "23:48:00",
+    "Content": "Employee reported a concern for another student",
+    "Offenses": "Health and Safety",
+    "Location": "Simmons Hall",
+    "Latitude": 40.799307,
+    "Longitude": -77.857463
+  },
+  {
+    "Date": "9/4/18",
+    "From": "11:00:00",
+    "To": "12:00:00",
+    "Content": "Student reported the loss or theft of their unsecured personal property",
+    "Offenses": "Lost Property - Wallets/Purses/Bookbags/Etc",
+    "Location": "Leonhard Bldg",
+    "Latitude": 40.791343,
+    "Longitude": -77.869378
+  },
+  {
+    "Date": "9/6/18",
+    "From": "16:21:00",
+    "To": "17:00:00",
+    "Content": "Student reported the theft of their secured personal property",
+    "Offenses": "Theft/$50-$200/Bicycle",
+    "Location": "Packer Hall",
+    "Latitude": 40.805076,
+    "Longitude": -77.861901
+  },
+  {
+    "Date": "9/6/18",
+    "From": "8:19:00",
+    "To": "8:26:00",
+    "Content": "Student reported the loss or theft of their unsecured personal property",
+    "Offenses": "Theft Of Property Lost Etc.",
+    "Location": "Pattee Library Bldg",
+    "Latitude": 40.797577,
+    "Longitude": -77.865899
+  },
+  {
+    "Date": "9/6/18",
+    "From": "14:00:00",
+    "To": "14:19:00",
+    "Content": "Student reported suspicious activity",
+    "Offenses": "Suspicious Activity - Other",
+    "Location": "Nittany Apartments Bldg",
+    "Latitude": 40.80338,
+    "Longitude": -77.856856
+  },
+  {
+    "Date": "9/1/18",
+    "From": "8:00:00",
+    "To": "14:00:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Sackett Bldg",
+    "Latitude": 40.794777,
+    "Longitude": -77.862701
+  },
+  {
+    "Date": "9/6/18",
+    "From": "12:30:00",
+    "To": "13:15:00",
+    "Content": "Student reported a two vehicle crash with no injuries",
+    "Offenses": "Vehicle Code - Accident",
+    "Location": "Stadium West Lot",
+    "Latitude": 40.810889,
+    "Longitude": -77.856955
+  },
+  {
+    "Date": "9/6/18",
+    "From": "12:48:00",
+    "To": "12:48:00",
+    "Content": "Employee reported unsafe conditions",
+    "Offenses": "Health and Safety",
+    "Location": "Blue Band Bldg",
+    "Latitude": 40.811073,
+    "Longitude": -77.864712
+  },
+  {
+    "Date": "9/6/18",
+    "From": "12:15:00",
+    "To": "12:26:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Pollock Rd",
+    "Latitude": 40.795289,
+    "Longitude": -77.865829
+  },
+  {
+    "Date": "9/6/18",
+    "From": "11:11:00",
+    "To": "11:11:00",
+    "Content": "Employee reported the loss or theft of University property from an unsecured privately owned vehicle",
+    "Offenses": "Theft Of Property Lost Etc.",
+    "Location": "Brown C Lot",
+    "Latitude": 40.798971,
+    "Longitude": -77.862844
+  },
+  {
+    "Date": "9/3/18",
+    "From": "8:00:00",
+    "To": "21:00:00",
+    "Content": "Student requested assistance with a personal matter",
+    "Offenses": "RFA-Request for Assistance/Health and Safety",
+    "Location": "Bigler Rd & Mckean Rd",
+    "Latitude": 40.802597,
+    "Longitude": -77.855567
+  },
+  {
+    "Date": "9/6/18",
+    "From": "9:46:00",
+    "To": "9:46:00",
+    "Content": "Underage student observed publicly intoxicated and transported to the hospital",
+    "Offenses": "Pur,Cons,Poss, Trans Intox Bev/Public Drunkenness/Health and Safety/RFA-Request for Assistance",
+    "Location": "E College Ave",
+    "Latitude": 40.80229,
+    "Longitude": -77.851015
+  },
+  {
+    "Date": "9/6/18",
+    "From": "2:16:00",
+    "To": "2:22:00",
+    "Content": "Visitor reported accidental damage to a privately owned vehicle",
+    "Offenses": "RFA-Request for Assistance",
+    "Location": "University Park Airport Bldg",
+    "Latitude": 40.851508,
+    "Longitude": -77.85043
+  },
+  {
+    "Date": "9/6/18",
+    "From": "1:28:00",
+    "To": "1:28:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Arl Bldg",
+    "Latitude": 40.792656,
+    "Longitude": -77.865782
+  },
+  {
+    "Date": "9/2/18",
+    "From": "1:00:00",
+    "To": "23:00:00",
+    "Content": "Student reported the loss or theft of their unattended personal property",
+    "Offenses": "Theft Of Property Lost Etc.",
+    "Location": "Chemistry Bldg",
+    "Latitude": 40.800484,
+    "Longitude": -77.861761
+  },
+  {
+    "Date": "9/6/18",
+    "From": "1:03:00",
+    "To": "1:37:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Cooper Hall",
+    "Latitude": 40.80005,
+    "Longitude": -77.854973
+  },
+  {
+    "Date": "9/6/18",
+    "From": "0:30:00",
+    "To": "0:35:00",
+    "Content": "Employee reported unsafe conditions",
+    "Offenses": "Health and Safety",
+    "Location": "Henderson Bldg",
+    "Latitude": 40.796796,
+    "Longitude": -77.861225
+  },
+  {
+    "Date": "9/7/18",
+    "From": "19:00:00",
+    "To": "19:01:00",
+    "Content": "Students stopped and found in possession of marijuana and drug paraphernalia",
+    "Offenses": "Possession of Small Amount of Marijuana/Possession of Paraphernalia",
+    "Location": "Arboretum Overlook Pavilion Bldg",
+    "Latitude": 40.805967,
+    "Longitude": -77.868194
+  },
+  {
+    "Date": "9/4/18",
+    "From": "0:00:00",
+    "To": "0:00:00",
+    "Content": "Student reported the theft of his personal property by force",
+    "Offenses": "Robbery/Gun-Miscellaneous/Theft/$50-$200/Other/Simple Assault/Recklessly Endangering/Receiving Stolen Property/Disorderly Conduct",
+    "Location": "Mckean Rd",
+    "Latitude": 40.803015,
+    "Longitude": -77.855576
+  },
+  {
+    "Date": "9/7/18",
+    "From": "18:34:00",
+    "To": "18:34:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Shields Bldg",
+    "Latitude": 40.806808,
+    "Longitude": -77.857958
+  },
+  {
+    "Date": "9/7/18",
+    "From": "18:15:00",
+    "To": "18:20:00",
+    "Content": "Employee reported damage to University property",
+    "Offenses": "Criminal Mischief - Buildings",
+    "Location": "Forum Bldg",
+    "Latitude": 40.800138,
+    "Longitude": -77.866249
+  },
+  {
+    "Date": "9/7/18",
+    "From": "18:25:00",
+    "To": "18:26:00",
+    "Content": "Student observed highly intoxicated and transported to the hospital",
+    "Offenses": "Pur,Cons,Poss, Trans Intox Bev/Public Drunkenness/Health and Safety/RFA-Request for Assistance",
+    "Location": "Hub Robeson Cultural Center Bldg",
+    "Latitude": 40.798184,
+    "Longitude": -77.860985
+  },
+  {
+    "Date": "9/7/18",
+    "From": "18:05:00",
+    "To": "18:55:00",
+    "Content": "Student stopped and found in possession of marijuana and drug paraphernalia",
+    "Offenses": "Possession of Small Amount of Marijuana/Possession of Paraphernalia",
+    "Location": "Nittany Lion Softball Park",
+    "Latitude": 40.808185,
+    "Longitude": -77.861095
+  },
+  {
+    "Date": "9/7/18",
+    "From": "10:50:00",
+    "To": "12:25:00",
+    "Content": "Student stopped for a University policy violation regarding skateboarding",
+    "Offenses": "PSU-Rules and Regulations",
+    "Location": "Curtin Rd & Shortlidge Rd",
+    "Latitude": 40.801931,
+    "Longitude": -77.863077
+  },
+  {
+    "Date": "9/7/18",
+    "From": "11:56:00",
+    "To": "13:38:00",
+    "Content": "Student reported the theft of their unsecured personal property",
+    "Offenses": "Theft/$50-$200/From Building",
+    "Location": "Boucke Bldg",
+    "Latitude": 40.799032,
+    "Longitude": -77.861708
+  },
+  {
+    "Date": "9/7/18",
+    "From": "12:13:00",
+    "To": "12:13:00",
+    "Content": "Student reported the loss or theft of University property",
+    "Offenses": "Theft Of Property Lost Etc.",
+    "Location": "Steidle Bldg",
+    "Latitude": 40.795184,
+    "Longitude": -77.865239
+  },
+  {
+    "Date": "8/26/18",
+    "From": "17:30:00",
+    "To": "18:30:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Palladino Hall",
+    "Latitude": 40.788832,
+    "Longitude": -77.872779
+  },
+  {
+    "Date": "9/7/18",
+    "From": "1:00:00",
+    "To": "1:20:00",
+    "Content": "Student requested assistance with a personal matter",
+    "Offenses": "Health and Safety",
+    "Location": "Nittany Lion Inn Bldg",
+    "Latitude": 40.797061,
+    "Longitude": -77.870472
+  },
+  {
+    "Date": "9/8/18",
+    "From": "18:42:00",
+    "To": "21:00:00",
+    "Content": "Anonymous person reported they were sexually assaulted in a residence hall",
+    "Offenses": "Forcible Rape",
+    "Location": "Campus Residence Hall",
+    "Latitude": 40.80623,
+    "Longitude": -77.86209
+  },
+  {
+    "Date": "9/8/18",
+    "From": "16:00:00",
+    "To": "16:25:00",
+    "Content": "Student consumed alcoholic beverages being less than 21 years of age",
+    "Offenses": "Pur,Cons,Poss, Trans Intox Bev/Public Drunkenness",
+    "Location": "McCoy Natatorium Bldg",
+    "Latitude": 40.804378,
+    "Longitude": -77.860706
+  },
+  {
+    "Date": "9/8/18",
+    "From": "13:09:00",
+    "To": "13:10:00",
+    "Content": "Student consumed alcoholic beverages being less than 21 years of age",
+    "Offenses": "Pur,Cons,Poss, Trans Intox Bev/Health and Safety",
+    "Location": "Bigler Rd & Curtin Rd",
+    "Latitude": 40.804298,
+    "Longitude": -77.861499
+  },
+  {
+    "Date": "9/8/18",
+    "From": "15:30:00",
+    "To": "16:30:00",
+    "Content": "Visitor reported a concern for another student",
+    "Offenses": "Health and Safety",
+    "Location": "McKean Hall",
+    "Latitude": 40.806421,
+    "Longitude": -77.860577
+  },
+  {
+    "Date": "9/8/18",
+    "From": "9:00:00",
+    "To": "20:37:00",
+    "Content": "Staff provided security for sorority recruitment",
+    "Offenses": "Community Education Report",
+    "Location": "Haller Hall",
+    "Latitude": 40.799182,
+    "Longitude": -77.856759
+  },
+  {
+    "Date": "9/7/18",
+    "From": "17:00:00",
+    "To": "18:00:00",
+    "Content": "Employee reported a two vehicle crash with no injuries",
+    "Offenses": "Vehicle Code - Accident",
+    "Location": "Green H Hort Woods Lot",
+    "Latitude": 40.799897,
+    "Longitude": -77.86845
+  },
+  {
+    "Date": "9/3/18",
+    "From": "15:28:00",
+    "To": "16:00:00",
+    "Content": "Student reported disorderly persons",
+    "Offenses": "Disorderly Conduct/RFA-Request for Assistance",
+    "Location": "Harris Hall",
+    "Latitude": 40.802173,
+    "Longitude": -77.85334
+  },
+  {
+    "Date": "9/8/18",
+    "From": "9:00:00",
+    "To": "9:05:00",
+    "Content": "Assisted a student with a personal matter",
+    "Offenses": "Health and Safety",
+    "Location": "Waring Cmns",
+    "Latitude": 40.79569,
+    "Longitude": -77.867318
+  },
+  {
+    "Date": "9/7/18",
+    "From": "10:00:00",
+    "To": "11:00:00",
+    "Content": "Student reported disorderly persons",
+    "Offenses": "Disorderly Conduct - Fighting/RFA-Request for Assistance",
+    "Location": "Grubb Hall",
+    "Latitude": 40.789664,
+    "Longitude": -77.871627
+  },
+  {
+    "Date": "9/8/18",
+    "From": "0:30:00",
+    "To": "1:15:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Brown A Willard Lot",
+    "Latitude": 40.795448,
+    "Longitude": -77.864419
+  },
+  {
+    "Date": "9/8/18",
+    "From": "0:15:00",
+    "To": "0:25:00",
+    "Content": "Officer participated in a community education program regarding bicycle safety",
+    "Offenses": "Community Education Report",
+    "Location": "Allen St",
+    "Latitude": 40.798905,
+    "Longitude": -77.867441
+  },
+  {
+    "Date": "9/7/18",
+    "From": "12:00:00",
+    "To": "11:00:00",
+    "Content": "Employee reported receiving terroristic threats",
+    "Offenses": "Terroristic Threats",
+    "Location": "Davey Lab Bldg",
+    "Latitude": 40.798133,
+    "Longitude": -77.862234
+  },
+  {
+    "Date": "9/9/18",
+    "From": "16:30:00",
+    "To": "16:45:00",
+    "Content": "Student reported damage to personal property",
+    "Offenses": "Criminal Mischief - Other",
+    "Location": "Ritner Hall",
+    "Latitude": 40.802013,
+    "Longitude": -77.857455
+  },
+  {
+    "Date": "9/9/18",
+    "From": "14:00:00",
+    "To": "15:30:00",
+    "Content": "Student reported a traffic concern regarding a vehicle and pedestrian",
+    "Offenses": "Vehicle Code - Incident",
+    "Location": "Pollock Rd & N Burrowes Rd",
+    "Latitude": 40.794692,
+    "Longitude": -77.866628
+  },
+  {
+    "Date": "9/9/18",
+    "From": "13:45:00",
+    "To": "13:50:00",
+    "Content": "Employee reported a University policy violation",
+    "Offenses": "Found Property - Firearms/PSU-Rules and Regulations",
+    "Location": "Nursing Science Bldg",
+    "Latitude": 40.796126,
+    "Longitude": -77.860331
+  },
+  {
+    "Date": "9/8/18",
+    "From": "13:00:00",
+    "To": "15:30:00",
+    "Content": "Assisted State College Police with an ongoing investigation",
+    "Offenses": "Assist State College Police",
+    "Location": "S Allen St",
+    "Latitude": 40.794441,
+    "Longitude": -77.861607
+  },
+  {
+    "Date": "9/9/18",
+    "From": "2:09:00",
+    "To": "5:30:00",
+    "Content": "Visitor reported a concern for another person",
+    "Offenses": "Health and Safety",
+    "Location": "Agricultural Arena Bldg",
+    "Latitude": 40.818245,
+    "Longitude": -77.857204
+  },
+  {
+    "Date": "9/9/18",
+    "From": "1:10:00",
+    "To": "1:40:00",
+    "Content": "Student consumed alcoholic beverages being less than 21 years of age",
+    "Offenses": "Pur,Cons,Poss, Trans Intox Bev/Public Drunkenness/Health and Safety/RFA-Request for Assistance",
+    "Location": "Curtin Rd",
+    "Latitude": 40.80425,
+    "Longitude": -77.861497
+  },
+  {
+    "Date": "9/10/18",
+    "From": "11:00:00",
+    "To": "2:30:00",
+    "Content": "Student requested assistance with a personal matter",
+    "Offenses": "Health and Safety",
+    "Location": "Mifflin Hall",
+    "Latitude": 40.800504,
+    "Longitude": -77.85797
+  },
+  {
+    "Date": "9/10/18",
+    "From": "10:00:00",
+    "To": "22:00:00",
+    "Content": "Employee reported a hit and run vehicle crash",
+    "Offenses": "Vehicle Code - Accident (Hit&Run)",
+    "Location": "Orange C Greenberg Lot",
+    "Latitude": 40.803364,
+    "Longitude": -77.855182
+  },
+  {
+    "Date": "9/10/18",
+    "From": "21:11:00",
+    "To": "21:55:00",
+    "Content": "Employee reported the theft of personal property from an unsecured office",
+    "Offenses": "Burglary/No Force-Nonres-Day/Theft/Under $50/From Building",
+    "Location": "Moore Bldg",
+    "Latitude": 40.798776,
+    "Longitude": -77.868963
+  },
+  {
+    "Date": "9/10/18",
+    "From": "7:45:00",
+    "To": "7:50:00",
+    "Content": "Student reported the theft of their unsecured personal property",
+    "Offenses": "Burglary/Theft By Unlawful Taking Or Dispo",
+    "Location": "Pond Lab",
+    "Latitude": 40.798113,
+    "Longitude": -77.864161
+  },
+  {
+    "Date": "9/10/18",
+    "From": "2:00:00",
+    "To": "2:10:00",
+    "Content": "Underage student observed highly intoxicated and transported to the hospital",
+    "Offenses": "Pur,Cons,Poss, Trans Intox Bev/Public Drunkenness/Health and Safety/RFA-Request for Assistance",
+    "Location": "Shortlidge Rd",
+    "Latitude": 40.801009,
+    "Longitude": -77.862049
+  },
+  {
+    "Date": "9/10/18",
+    "From": "0:27:00",
+    "To": "1:07:00",
+    "Content": "Resident Assistant reported the odor of marijuana, origin not located",
+    "Offenses": "Possession of Small Amount of Marijuana",
+    "Location": "Stone Hall",
+    "Latitude": 40.806997,
+    "Longitude": -77.861708
+  },
+  {
+    "Date": "9/11/18",
+    "From": "1:00:00",
+    "To": "2:00:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "East Halls",
+    "Latitude": 40.806173,
+    "Longitude": -77.862037
+  },
+  {
+    "Date": "9/11/18",
+    "From": "17:42:00",
+    "To": "17:42:00",
+    "Content": "Employee reported damage to University property",
+    "Offenses": "Criminal Mischief - Other",
+    "Location": "Walker Bldg",
+    "Latitude": 40.793272,
+    "Longitude": -77.866793
+  },
+  {
+    "Date": "9/11/18",
+    "From": "14:18:00",
+    "To": "14:18:00",
+    "Content": "Student reported damage to University property",
+    "Offenses": "RFA-Request for Assistance",
+    "Location": "Pollock Rd At Davey Lab",
+    "Latitude": 40.797889,
+    "Longitude": -77.862481
+  },
+  {
+    "Date": "9/10/18",
+    "From": "11:04:00",
+    "To": "12:12:00",
+    "Content": "Employee reported a University policy violation regarding skateboarding",
+    "Offenses": "PSU-Rules and Regulations",
+    "Location": "Engineering Unit B Bldg",
+    "Latitude": 40.794254,
+    "Longitude": -77.862578
+  },
+  {
+    "Date": "9/11/18",
+    "From": "10:08:00",
+    "To": "10:09:00",
+    "Content": "Underage student observed highly intoxicated",
+    "Offenses": "Pur,Cons,Poss, Trans Intox Bev/Public Drunkenness/Health and Safety/RFA-Request for Assistance",
+    "Location": "Thomas Bldg",
+    "Latitude": 40.800737,
+    "Longitude": -77.860425
+  },
+  {
+    "Date": "9/11/18",
+    "From": "2:35:00",
+    "To": "2:54:00",
+    "Content": "Student observed highly intoxicated and transported to the hospital",
+    "Offenses": "Public Drunkenness/RFA-Request for Assistance/Health and Safety",
+    "Location": "University Dr",
+    "Latitude": 40.801505,
+    "Longitude": -77.85024
+  },
+  {
+    "Date": "9/11/18",
+    "From": "2:46:00",
+    "To": "3:30:00",
+    "Content": "Underage student observed highly intoxicated and transported to the hospital",
+    "Offenses": "Pur,Cons,Poss, Trans Intox Bev/Public Drunkenness/Health and Safety/RFA-Request for Assistance",
+    "Location": "Stuckeman Family Bldg",
+    "Latitude": 40.801084,
+    "Longitude": -77.866685
+  },
+  {
+    "Date": "9/12/18",
+    "From": "21:40:00",
+    "To": "21:50:00",
+    "Content": "Officer participated in a community education program regarding a Mozart Requiem",
+    "Offenses": "Community Education Report",
+    "Location": "Pasquerilla Spirtual Center Bldg",
+    "Latitude": 40.798839,
+    "Longitude": -77.86674
+  },
+  {
+    "Date": "9/12/18",
+    "From": "18:15:00",
+    "To": "18:35:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Pegula Ice Arena Bldg",
+    "Latitude": 40.806598,
+    "Longitude": -77.85698
+  },
+  {
+    "Date": "4/28/18",
+    "From": "7:30:00",
+    "To": "15:00:00",
+    "Content": "Employee reported found property",
+    "Offenses": "Found Property - Office Equipment",
+    "Location": "Keller Bldg",
+    "Latitude": 40.798232,
+    "Longitude": -77.870676
+  },
+  {
+    "Date": "9/10/18",
+    "From": "12:00:00",
+    "To": "12:15:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Music Bldg",
+    "Latitude": 40.799622,
+    "Longitude": -77.867691
+  },
+  {
+    "Date": "9/12/18",
+    "From": "16:15:00",
+    "To": "16:45:00",
+    "Content": "Employee reported finding abandoned marijuana, drug paraphernalia and alcohol",
+    "Offenses": "Possession of Small Amount of Marijuana/Possession of Paraphernalia/Suspicious Activity - Other/PSU-Rules and Regulations/Specialist Call Out Canine",
+    "Location": "Geary Hall",
+    "Latitude": 40.805495,
+    "Longitude": -77.86226
+  },
+  {
+    "Date": "9/12/18",
+    "From": "14:30:00",
+    "To": "15:00:00",
+    "Content": "Employee reported the theft of unsecured personal property",
+    "Offenses": "Theft/$50-$200/Bicycle/Receiving Stolen Property",
+    "Location": "N Burrowes Road",
+    "Latitude": 40.796118,
+    "Longitude": -77.868396
+  },
+  {
+    "Date": "9/13/18",
+    "From": "17:30:00",
+    "To": "18:46:00",
+    "Content": "Visitor observed highly intoxicated",
+    "Offenses": "Public Drunkenness/Health and Safety/RFA-Request for Assistance",
+    "Location": "Willard Bldg",
+    "Latitude": 40.795887,
+    "Longitude": -77.864215
+  },
+  {
+    "Date": "9/10/18",
+    "From": "10:12:00",
+    "To": "10:12:00",
+    "Content": "Officer distributed theft prevention material",
+    "Offenses": "Community Education Report",
+    "Location": "Recreation Hall",
+    "Latitude": 40.796038,
+    "Longitude": -77.869002
+  },
+  {
+    "Date": "9/12/18",
+    "From": "19:00:00",
+    "To": "3:30:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/PSU-Rules and Regulations/RFA-Request for Assistance",
+    "Location": "N Atherton St",
+    "Latitude": 40.796793,
+    "Longitude": -77.87235
+  },
+  {
+    "Date": "9/14/18",
+    "From": "23:54:00",
+    "To": "0:12:00",
+    "Content": "Assisted the ambulance with a medical emergency",
+    "Offenses": "Health and Safety/RFA-Request for Assistance",
+    "Location": "Paterno Library Bldg",
+    "Latitude": 40.797966,
+    "Longitude": -77.865737
+  },
+  {
+    "Date": "9/14/18",
+    "From": "20:15:00",
+    "To": "20:15:00",
+    "Content": "Employee reported a Hit and Run vehicle crash",
+    "Offenses": "Vehicle Code - Accident (Hit&Run)/Accidents-Damage Attn Veh/Prop",
+    "Location": "Yellow S East Of Tyson Lot",
+    "Latitude": 40.802729,
+    "Longitude": -77.861221
+  },
+  {
+    "Date": "8/26/18",
+    "From": "10:00:00",
+    "To": "17:00:00",
+    "Content": "Student consumed alcoholic beverages being less than 21 years of age",
+    "Offenses": "Pur,Cons,Poss, Trans Intox Bev/Public Drunkenness/Health and Safety/RFA-Request for Assistance",
+    "Location": "Bigler Rd",
+    "Latitude": 40.804871,
+    "Longitude": -77.862211
+  },
+  {
+    "Date": "9/13/18",
+    "From": "15:30:00",
+    "To": "17:00:00",
+    "Content": "Student reported suspicious activity",
+    "Offenses": "Suspicious Activity - Other",
+    "Location": "Warnock Cmns",
+    "Latitude": 40.802804,
+    "Longitude": -77.866038
+  },
+  {
+    "Date": "9/13/18",
+    "From": "18:52:00",
+    "To": "18:52:00",
+    "Content": "Visitor reported a hit and run crash",
+    "Offenses": "Vehicle Code - Accident (Hit&Run)",
+    "Location": "Orange F East Area Lockers Lot",
+    "Latitude": 40.805142,
+    "Longitude": -77.855676
+  },
+  {
+    "Date": "9/14/18",
+    "From": "2:00:00",
+    "To": "2:10:00",
+    "Content": "Employee requested assistance with an administrative matter",
+    "Offenses": "RFA-Request for Assistance",
+    "Location": "Deike Bldg",
+    "Latitude": 40.794387,
+    "Longitude": -77.864236
+  },
+  {
+    "Date": "9/15/18",
+    "From": "21:00:00",
+    "To": "21:30:00",
+    "Content": "Employee reported a concern for another person",
+    "Offenses": "Health and Safety",
+    "Location": "Fleet Ops Water Tower",
+    "Latitude": 40.814015,
+    "Longitude": -77.861318
+  },
+  {
+    "Date": "9/15/18",
+    "From": "9:16:00",
+    "To": "9:16:00",
+    "Content": "Student reported a two vehicle crash with no injuries",
+    "Offenses": "Vehicle Code - Accident",
+    "Location": "Curtin Rd & Shortlidge Rd",
+    "Latitude": 40.80185,
+    "Longitude": -77.863184
+  },
+  {
+    "Date": "9/15/18",
+    "From": "1:21:00",
+    "To": "1:40:00",
+    "Content": "Student stopped for a University policy violation regarding skateboarding",
+    "Offenses": "PSU-Rules and Regulations",
+    "Location": "Pollock Rd & Bigler Rd",
+    "Latitude": 40.802493,
+    "Longitude": -77.857859
+  }
+]

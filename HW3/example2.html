@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PSU Reported Crimes by Ziyuan Ye</title>
+
+    <style type="text/css">
+        /* Set the size of the div element that contains the map */
+        #map {
+            height: 800px;
+            /* The height is 900 pixels */
+            width: 120%;
+            /* The width is the width of the web page */
+        }
+    </style>
+    <script>
+        // Initialize and add the map
+        function initMap(listener) {
+            // The location of State College
+            const state_college = { lat: 40.799672, lng: -77.862339 };
+            // The map, centered state College
+            const map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 15,
+                center: state_college,
+            });
+
+            d3.csv("data/PSU_ReportedCrimes.csv").then((data) => {
+                for (var i = 0; i < data.length; i++) {
+                    var point = {lat: Number(data[i].Latitude), lng: Number(data[i].Longitude)};
+                    var marker = new google.maps.Marker({
+                        position: point,
+                        map: map,
+                    });
+
+                    document.getElementById("Date2").innerHTML = data[i].Date;
+                    }
+                    const contentString =
+                        '<div id="content">' +
+                        '<div id="siteNotice">' +
+                        "</div>" +
+                        '<h1 id="firstHeading",  class="firstHeading">data[i].Date</h1>' +
+                        '<div id="bodyContent">' +
+                        '<h1 id="Date2"> </h1>' +
+                        "sandstone rock formation in the southern part of the " +
+                        "Northern Territory, central Australia. It lies 335&#160;km (208&#160;mi) " +
+                        "south west of the nearest large town, Alice Springs; 450&#160;km " +
+                        "(280&#160;mi) by road. Kata Tjuta and Uluru are the two major " +
+                        "features of the Uluru - Kata Tjuta National Park. Uluru is " +
+                        "sacred to the Pitjantjatjara and Yankunytjatjara, the " +
+                        "Aboriginal people of the area. It has many springs, waterholes, " +
+                        "rock caves and ancient paintings. Uluru is listed as a World " +
+                        "Heritage Site.</p>" +
+                        '<p>Attribution: Uluru, <a href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">' +
+                        "https://en.wikipedia.org/w/index.php?title=Uluru</a> " +
+                        "(last visited June 22, 2009).</p>" +
+                        "</div>" +
+                        "</div>";
+                    const infowindow = new google.maps.InfoWindow({
+                        content: contentString,
+                    });
+                    marker.addListener("click", () => {
+                        infowindow.open({
+                            anchor: marker,
+                            map,
+                            shouldFocus: false,
+                        });
+                    });
+                }
+            });
+        }
+    </script>
+    <script src="https://d3js.org/d3.v7.min.js">
+        // load d3.v7.js
+    </script>
+</head>
+<body>
+<h3>My Google Maps Demo</h3>
+<!--The div element for the map -->
+<div id="map"></div>
+
+<!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+<script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAEC5_-uZsesYPicEQp4PI2v8hY7VlqYkA&callback=initMap&libraries=&v=weekly"
+        async
+></script>
+</body>
+</html>
